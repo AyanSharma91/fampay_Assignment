@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="12sp"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/bg_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/bg_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY">
+
+        </ImageView>
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="250sp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="53dp"
+            android:layout_marginTop="125dp"
+            android:lineHeight="35dp"
+            android:text="Big Display Card \nWith action"
+            android:textSize="30sp">
+
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="250sp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="53dp"
+            android:layout_marginTop="223dp"
+            android:lineHeight="18dp"
+            android:text="This is a sample text that you can add to contextual cards"
+            android:textSize="12sp">
+
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/action_btn"
+            android:layout_width="128sp"
+            android:layout_height="42dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="53dp"
+            android:layout_marginTop="113dp"
+            android:layout_marginBottom="20dp"
+            android:background="@color/black"
+            android:gravity="center"
+            android:lineHeight="18dp"
+            android:text="Action"
+            android:textColor="@color/white"
+            android:textSize="14sp">
+
+        </TextView>
+        
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

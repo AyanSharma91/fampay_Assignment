@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FamPay/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16" />
+        <entry key="..\:/FamPay/app/src/main/res/drawable-v24/remind_background.xml" value="0.16" />
+        <entry key="..\:/FamPay/app/src/main/res/drawable/container_background.xml" value="0.16" />
+        <entry key="..\:/FamPay/app/src/main/res/drawable/progress_thickness.xml" value="0.16" />
+        <entry key="..\:/FamPay/app/src/main/res/drawable/remind_background.xml" value="0.16" />
+        <entry key="..\:/FamPay/app/src/main/res/drawable/remindlater.xml" value="0.16" />
+        <entry key="..\:/FamPay/app/src/main/res/drawable/right_arrow.xml" value="0.16" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/card_dialog_layout.xml" value="0.20104166666666667" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/container_layout.xml" value="0.22" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/single_row_box_hc1.xml" value="0.20104166666666667" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/single_row_box_hc3.xml" value="0.22" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/single_row_box_hc5.xml" value="0.20104166666666667" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/single_row_box_hc6_hc1.xml" value="0.20104166666666667" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/single_row_box_hc9.xml" value="0.20104166666666667" />
+        <entry key="..\:/FamPay/app/src/main/res/layout/single_row_hc6.xml" value="0.20104166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
