@@ -144,8 +144,7 @@ class ContainerLayout : RelativeLayout {
 
             if(!sharedpreferences.getBoolean("isVisible", true))
                 hc3CardView.visibility=View.GONE
-            else
-            hc3CardView.visibility=View.VISIBLE
+
 
             hc3Viewpager.adapter = HC3PagerAdapter(context , hc3 , remindBtn , dismissBtn )
         }

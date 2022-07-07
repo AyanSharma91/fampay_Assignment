@@ -19,7 +19,6 @@
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/hc3cardview"
-                android:visibility="gone"
                 android:layout_width="match_parent"
                 android:layout_margin="15dp"
                 android:layout_height="380dp"
